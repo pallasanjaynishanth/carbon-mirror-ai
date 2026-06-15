@@ -11,7 +11,7 @@ const safetySettings = [
 
 function getModel(vision = false) {
   return genAI.getGenerativeModel({
-    model: vision ? 'gemini-1.5-flash' : 'gemini-1.5-flash',
+    model: 'gemini-2.0-flash',
     safetySettings,
     generationConfig: {
       temperature: 0.8,
