@@ -286,3 +286,5 @@ All Gemini calls in `/ai/gemini.ts` return **strict JSON** with explicit schemas
 ## 📄 License
 
 Built for PromptWars Challenge 3. MIT License.
+#   c a r b o n - m i r r o r - a i  
+ 
